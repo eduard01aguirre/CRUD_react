@@ -1,0 +1,34 @@
+{
+    "todos":[
+        {
+            "title": "Tarea 1",
+            "name": "Ryan",
+            "description": "Lorem ipsom",
+            "prioridad": "low"
+        },
+        {
+            "title": "Tarea 2",
+            "name": "Felipe",
+            "description": "Lorem ipsom",
+            "prioridad": "medium"
+        },
+        {
+            "title": "Tarea 3",
+            "name": "Bryan",
+            "description": "Lorem ipsom",
+            "prioridad": "high"
+        },
+        {
+            "title": "Tarea 3",
+            "name": "Bryan",
+            "description": "Lorem ipsom",
+            "prioridad": "high"
+        },
+        {
+            "title": "Tarea 3",
+            "name": "Bryan",
+            "description": "Lorem ipsom",
+            "prioridad": "high"
+        }
+    ]
+}
